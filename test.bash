@@ -1,7 +1,7 @@
 #!/bin/bash
 # SPDX-FileCopyrightText: 2025 Masaki Yoshikawa
 # SPDX-Licence-Indentifier: BSD-3-Clause
-
+#
 ng(){
 	echo NG at Line $1
 	res=1
